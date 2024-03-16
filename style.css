@@ -1,0 +1,52 @@
+body{
+    background: url("https://hdqwalls.com/download/the-avengers-marvel-comics-oc-3840x2400.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 0.7);
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+h3{
+    color: white;
+    font-size: xx-large;
+}
+
+
+.t{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 20px;
+    
+}
+
+
+img{
+    height: 140px;
+    width: 140px;
+    border-radius: 20px 20px 20px 20px;
+    border:solid white;
+}
+
+td{
+    padding: 10px;
+}
